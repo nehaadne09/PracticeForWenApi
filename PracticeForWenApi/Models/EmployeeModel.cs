@@ -6,6 +6,7 @@
         public string EmplyeeName { get; set; }
         public string EmpMobile { get; set; }
         public string EmpAddress { get; set; }
+        public string image { get; set; }
         public decimal salary { get; set; }
         
             
